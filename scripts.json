@@ -1,5 +1,5 @@
 {
 "police-mdt-dispatch" : {
-"updateValue" : true,
-"message" : "Hi i am From GitHub" }
+"available" : true,
+"message" : "Hi i am From GitHub" , "version" : 0.3 }
 }
